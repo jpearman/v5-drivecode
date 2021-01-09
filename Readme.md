@@ -1,4 +1,4 @@
-<ins>V5 drive code for a Clawbot</ins>
+<ins>Drive code for a V5 Clawbot</ins>
 ---
 
 This code is a simplified version of the V5 brain internal drive code.
@@ -46,6 +46,9 @@ data shown in order is
 
 The display for the blocks project is much simpler.
 
-![cpp screenshot](screenshots/defaultDriveBlocks.png)
+![python screenshot](screenshots/defaultDriveBlocks.png)
 
+Blocks program (this png image is in the images folder)  
+
+![blocks program](images/defaultDrive.png)
 
